@@ -1,0 +1,15 @@
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\lab5ThomasBeevers.csproj.AssemblyReference.cache
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\lab5ThomasBeevers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\lab5ThomasBeevers.AssemblyInfoInputs.cache
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\lab5ThomasBeevers.AssemblyInfo.cs
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\lab5ThomasBeevers.csproj.CoreCompileInputs.cache
+C:\Users\beeve\source\repos\lab5ThomasBeevers\bin\Debug\net6.0\lab5ThomasBeevers.exe
+C:\Users\beeve\source\repos\lab5ThomasBeevers\bin\Debug\net6.0\lab5ThomasBeevers.deps.json
+C:\Users\beeve\source\repos\lab5ThomasBeevers\bin\Debug\net6.0\lab5ThomasBeevers.runtimeconfig.json
+C:\Users\beeve\source\repos\lab5ThomasBeevers\bin\Debug\net6.0\lab5ThomasBeevers.dll
+C:\Users\beeve\source\repos\lab5ThomasBeevers\bin\Debug\net6.0\lab5ThomasBeevers.pdb
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\lab5ThomasBeevers.dll
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\refint\lab5ThomasBeevers.dll
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\lab5ThomasBeevers.pdb
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\lab5ThomasBeevers.genruntimeconfig.cache
+C:\Users\beeve\source\repos\lab5ThomasBeevers\obj\Debug\net6.0\ref\lab5ThomasBeevers.dll
